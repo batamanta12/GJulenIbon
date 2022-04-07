@@ -14,6 +14,9 @@ public class Saludo {
 		System.out.println("Segundo cambio Git");
 		System.out.println("Tercer cambio Git");
 		System.out.println("Cuarto cambio Git");
+		System.out.println("Cambio y conflicto");
+		
+		
 		
 	}
 
