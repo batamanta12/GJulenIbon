@@ -22,6 +22,8 @@ public class Saludo {
 		
 		System.out.println("Cambio del segundo usuario");
 		
+		System.out.println("Cambio en el trunk by usuario 2");
+		
 		
 	
 	}
