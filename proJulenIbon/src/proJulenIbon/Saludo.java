@@ -14,10 +14,16 @@ public class Saludo {
 		System.out.println("Segundo cambio Git");
 		System.out.println("Tercer cambio Git");
 		System.out.println("Cuarto cambio Git");
+<<<<<<< HEAD
 		System.out.println("Cambio y conflicto");
 		
 		
+=======
+		System.out.println("Primer cambio con conflicto");
+		System.out.println("Hola bugeo");
+>>>>>>> branch 'GJulenIbon' of https://github.com/batamanta12/GJulenIbon.git
 		
+	
 	}
 
 }
