@@ -23,6 +23,7 @@ public class Saludo {
 		System.out.println("Cambio del segundo usuario");
 		
 		System.out.println("Cambio en el trunk by usuario 2");
+		System.out.println("Cambio después de la fusion");
 		
 		
 	
