@@ -20,6 +20,8 @@ public class Saludo {
 		System.out.println("Primer cambio con conflicto");
 		System.out.println("Hola bugeo");
 		
+		System.out.println("Cambio del segundo usuario");
+		
 		
 	
 	}
